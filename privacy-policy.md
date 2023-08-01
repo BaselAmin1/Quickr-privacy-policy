@@ -17,4 +17,4 @@ Quickr is not intended for children under the age of 13. We do not knowingly col
 Our commitment to your privacy is unwavering, and we may update this policy from time to time as our app evolves. Any changes will be communicated within the app, ensuring you stay informed about how we handle your information.
 
 **Contact Information**
-We are here to address any questions or concerns you may have regarding our privacy policy or your use of Quickr. Please don't hesitate to reach out to us via email at [support@quickr.com]. Your privacy matters, and we value your trust in Quickr.
+We are here to address any questions or concerns you may have regarding our privacy policy or your use of Quickr. Please don't hesitate to reach out to us via email at [support@quickr.digital]. Your privacy matters, and we value your trust in Quickr.
