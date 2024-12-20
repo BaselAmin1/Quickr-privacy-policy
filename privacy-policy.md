@@ -34,10 +34,17 @@ Quickr is not intended for use by children under the age of 13. We do not knowin
 
 If you are under 13, please do not use Quickr.
 
-7. Changes to This Privacy Policy
+
+7. Lifetime of Product & Renewal
+
+The "lifetime of product" refers to the duration of access to the Quickr service and the NFC card links associated with your account. The lifetime of the product is defined as one (1) year from the date of purchase or activation of the service. At the end of the 1-year period, your access to the service and associated NFC cards will be subject to renewal, free of charge.
+
+You will be notified prior to the end of the year. Your NFC card links and any associated data may no longer be accessible after the decided period expires, your card will still be physically valid.
+
+8. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be communicated to you via the app or other appropriate channels. We encourage you to regularly review this policy to stay informed about how we handle your data.
 
-8. Contact Information
+9. Contact Information
 
 If you have any questions or concerns regarding this Privacy Policy or how we handle your information, please contact us at [support@quickr.digital]. We are here to help and ensure your privacy concerns are addressed.
