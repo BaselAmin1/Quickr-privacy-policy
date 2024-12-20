@@ -1,20 +1,43 @@
-**Quickr Privacy Policy**
-At Quickr, your privacy is of the utmost importance to us, and we take great care to ensure the protection of your information. As the creators of the NFC card social media and info sharing app, we want to provide you with full transparency about our privacy practices.
+Quickr Privacy Policy
 
-**NFC Card Social Media and Info Sharing**
-Quickr's NFC card social media and info sharing app empowers you to connect with others seamlessly and securely. Rest assured that we respect your privacy, and we do not collect any personal information or use cookies when you use our app. Your interactions are your own, and we have no access to the information you share through your NFC cards.
+At Quickr, we value your privacy and are committed to protecting your personal information. As the creators of the NFC card social media and info-sharing platform, we want to provide you with full transparency regarding how your data is handled. This Privacy Policy outlines the data we collect, how we use it, and the measures we take to protect your privacy.
 
-**Third-Party Websites**
-For your convenience, Quickr may include links to third-party websites. Please be aware that these websites have their own privacy policies, which may differ from ours. While we take every effort to link to reputable sources, we cannot assume responsibility for their practices. We encourage you to review their privacy policies when you visit these external sites.
+By using Quickr, you agree to the terms outlined in this policy. Please read it carefully to understand how we protect and handle your data.
 
-**Security**
-Your trust is the foundation of our app, and we want you to feel secure while using Quickr. Although we do not collect personal information, we maintain stringent security measures to safeguard our app and ensure your experience is as safe as possible.
+1. Data Collection & Use
 
-**Children's Privacy**
-Quickr is not intended for children under the age of 13. We do not knowingly collect personal information from young users. If you are under 13, we kindly request that you refrain from using our app. If we inadvertently discover any personal information from a child under 13, we will promptly delete it.
+Quickr allows users to create and share NFC cards, which may contain information such as contact details, social media profiles, or personal data. We store this information using Firebase by Google. Please note that any information uploaded to Quickr is considered public as the links to these NFC cards can be accessed by anyone with the appropriate link.
 
-**Changes To This Privacy Policy**
-Our commitment to your privacy is unwavering, and we may update this policy from time to time as our app evolves. Any changes will be communicated within the app, ensuring you stay informed about how we handle your information.
+We do not actively collect or monitor your personal data outside of what you upload through the NFC cards. Any data you share via the NFC card is solely your responsibility, and we do not store or track this information beyond what is necessary for the functionality of the service.
 
-**Contact Information**
-We are here to address any questions or concerns you may have regarding our privacy policy or your use of Quickr. Please don't hesitate to reach out to us via email at [support@quickr.digital]. Your privacy matters, and we value your trust in Quickr.
+2. Data Storage & Access
+
+Quickr stores the data you upload (such as contact information, social media profiles, or other content) on Firebase, which is a cloud storage service provided by Google. This data is stored securely, but since the links to NFC cards are public, the information may be accessed by anyone with the link.
+
+While we do our best to ensure security, you should assume that any information shared through your NFC card may be publicly accessible.
+
+3. Cookies & Tracking Technologies
+
+Quickr does not use cookies or tracking technologies to monitor your activity or collect personal information. We do not track your device or gather analytics regarding your use of the app.
+
+4. Third-Party Websites & Links
+
+Our platform may include links to third-party websites for your convenience. These external websites have their own privacy policies, and Quickr is not responsible for their practices. We encourage you to review their privacy policies when visiting third-party websites.
+
+5. Data Security
+
+We take your security seriously and implement industry-standard encryption and security measures to protect your information while it is stored on Firebase. However, please note that since the links to your NFC cards are publicly accessible, we cannot guarantee complete protection against unauthorized access to the data you share via the NFC card links.
+
+6. Children's Privacy
+
+Quickr is not intended for use by children under the age of 13. We do not knowingly collect personal data from children under 13. If we become aware that we have inadvertently collected personal data from a child under 13, we will promptly delete it.
+
+If you are under 13, please do not use Quickr.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be communicated to you via the app or other appropriate channels. We encourage you to regularly review this policy to stay informed about how we handle your data.
+
+8. Contact Information
+
+If you have any questions or concerns regarding this Privacy Policy or how we handle your information, please contact us at [support@quickr.digital]. We are here to help and ensure your privacy concerns are addressed.
