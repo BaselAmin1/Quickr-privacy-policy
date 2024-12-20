@@ -47,4 +47,4 @@ We may update this Privacy Policy from time to time. Any changes will be communi
 
 9. Contact Information
 
-If you have any questions or concerns regarding this Privacy Policy or how we handle your information, please contact us at [support@quickr.digital]. We are here to help and ensure your privacy concerns are addressed.
+If you have any questions or concerns regarding this Privacy Policy or how we handle your information, please contact us at [support@quickr.tech]. We are here to help and ensure your privacy concerns are addressed.
